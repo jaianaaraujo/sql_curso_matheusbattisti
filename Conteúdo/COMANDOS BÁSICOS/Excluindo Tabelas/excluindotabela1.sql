@@ -1,0 +1,4 @@
+-- REMOVENDO TABELAS = DROP TABLE nomedatabela
+
+-- EXCLUINDO TABELA
+DROP TABLE salario;
